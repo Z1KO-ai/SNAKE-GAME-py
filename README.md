@@ -10,7 +10,7 @@ Responsive design suitable for different screen sizes
 Installation
 To run the Snake game locally, follow these steps:
 1. Clone this repository:
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/Z1KO-ai/SNAKE-GAME-py.git
 2. Navigate to the project directory:
    cd snake-game
 Open the index.html file in your web browser.
